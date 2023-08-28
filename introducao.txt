@@ -1,2 +1,4 @@
 "Usando comandos basicos do git" 
 Adicionando informacao pela branch Feature-navbar
+
+Adicioando outras informações (por Cauã Clemente)
